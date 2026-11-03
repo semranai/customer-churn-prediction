@@ -1,0 +1,3 @@
+cd "C:\Users\SEM\Downloads\AI-ML\P1"
+
+.\.venv\Scripts\Activate.ps1
